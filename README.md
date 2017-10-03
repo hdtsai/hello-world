@@ -2,3 +2,4 @@
 it's my first repository
 
 hihi,it's the debut.
+1
